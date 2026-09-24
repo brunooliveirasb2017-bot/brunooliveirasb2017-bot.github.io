@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.brunooliveirasb2017_bot.twa",
+        "sha256_cert_fingerprints": ["27:D0:4F:35:91:1B:AB:37:C6:DA:7F:31:06:AA:74:90:89:6F:48:F5:7B:B8:35:FD:A7:8D:BD:DC:C1:65:BE:AD"]
+      }
+    }]
